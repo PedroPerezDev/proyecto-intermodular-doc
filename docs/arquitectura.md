@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documentación del Proyecto Intermodular
+title: Arquitectura
 nav_order: 5
 ---
 # Arquitectura del proyecto
