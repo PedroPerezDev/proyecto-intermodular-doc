@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documentación del Proyecto Intermodular
+title: Conclusiones
 nav_order: 6
 ---
 # Conclusiones
