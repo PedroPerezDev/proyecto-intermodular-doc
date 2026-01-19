@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Instalacion
+title: Instalación
 nav_order: 3
 ---
+
 # Instalación
 
 ![Proceso de instalación](img/logos3.jpg)
@@ -13,31 +14,24 @@ nav_order: 3
 
 Para poder utilizar **TaskFlow**, es necesario disponer de los siguientes elementos:
 
-- Navegador web moderno (Chrome, Firefox, Edge)
-- Conexión a Internet
-- Git instalado en el sistema
-- Editor de código (Visual Studio Code recomendado)
+- Navegador web moderno (Chrome, Firefox, Edge)  
+- Conexión a Internet  
+- Git instalado en el sistema  
+- Editor de código (Visual Studio Code recomendado)  
 
 ---
 
 ## Pasos de instalación
 
-1. Clonar el repositorio desde GitHub:
-
 ```bash
+# 1. Clonar el repositorio desde GitHub
 git clone https://github.com/usuario/taskflow.git
-```
 
-2. Acceder al directorio del proyecto:
-
-```bash
+# 2. Acceder al directorio del proyecto
 cd taskflow
-```
 
-3. Abrir el proyecto en el editor de código:
-
-```bash
+# 3. Abrir el proyecto en el editor de código
 code .
-```
-   
-4. Abrir el archivo index.html en el navegador para ejecutar la aplicación.
+
+# 4. Abrir el archivo index.html en el navegador para ejecutar la aplicación
+
