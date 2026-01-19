@@ -33,9 +33,9 @@ git clone https://github.com/usuario/taskflow.git
 cd taskflow
 ```
 3. Abrir el proyecto en el editor de código:
+
 ```bash
 code .
-
 ```
    
 4. Abrir el archivo index.html en el navegador para ejecutar la aplicación.
