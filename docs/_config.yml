@@ -1,13 +1,1 @@
-# Configuración básica de GitHub Pages para TaskFlow
 
-title: TaskFlow
-description: Documentación técnica del proyecto TaskFlow - Gestión de tareas colaborativa
-baseurl: ""          # Si tu sitio se publica en https://usuario.github.io/proyecto-intermodular-doc/, dejar vacío
-url: "https://usuario.github.io"  # Sustituye "usuario" por tu usuario de GitHub
-
-theme: jekyll-theme-cayman  # Tema visual
-
-# Opciones adicionales
-markdown: kramdown            # Motor de Markdown
-plugins:
-  - jekyll-feed               # Para generar un feed RSS (opcional)
