@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Documentación del Proyecto Intermodular
+nav_order: 7
+---
 # Referencias
 
 ![Imagen representativa](img/logos5.jpg)
