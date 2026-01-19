@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documentación del Proyecto Intermodular
+title: Introduccion
 nav_order: 2
 ---
 # Introducción
