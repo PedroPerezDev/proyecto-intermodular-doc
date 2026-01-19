@@ -1,3 +1,8 @@
+---
+layout: default
+title: Documentación del Proyecto Intermodular
+nav_order: 6
+---
 # Conclusiones
 
 ![Imagen decorativa](img/logos4.jpg)
