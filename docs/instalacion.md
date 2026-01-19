@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documentación del Proyecto Intermodular
+title: Instalacion
 nav_order: 3
 ---
 # Instalación
