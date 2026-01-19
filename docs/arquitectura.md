@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Documentación del Proyecto Intermodular
+nav_order: 5
+---
 # Arquitectura del proyecto
 
 ![Diagrama de arquitectura](img/logos3.jpg)
