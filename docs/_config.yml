@@ -1,23 +1,16 @@
-# Configuración básica de GitHub Pages para TaskFlow con Just the Docs
+# Configuración básica de GitHub Pages para TaskFlow
 
 title: TaskFlow
 description: Documentación técnica del proyecto TaskFlow - Gestión de tareas colaborativa
-baseurl: ""            # Dejar vacío si publicas en https://TU_USUARIO.github.io/proyecto-intermodular-doc/
+baseurl: ""                    # Dejar vacío si publicas en https://TU_USUARIO.github.io/proyecto-intermodular-doc/
 url: "https://TU_USUARIO.github.io"  # Cambia TU_USUARIO por tu nombre de usuario
 
-theme: just-the-docs   # Tema con sidebar lateral
+# Tema oficial de GitHub Pages (bonito y sencillo)
+theme: jekyll-theme-cayman
 
 # Motor de Markdown
 markdown: kramdown
 
 # Plugins opcionales
 plugins:
-  - jekyll-feed       # Genera un feed RSS (opcional)
-
-# Just the Docs settings
-just_the_docs:
-  logo: img/logos1.jpg          # Logo en el menú lateral
-  repository_url: "https://github.com/TU_USUARIO/proyecto-intermodular-doc" # Enlace al repositorio
-  repository_branch: main
-  show_sidebar: true            # Mostrar menú lateral
-  search_enabled: true          # Habilita búsqueda en la web
+  - jekyll-feed               # Para generar un feed RSS (opcional)
