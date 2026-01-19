@@ -27,11 +27,13 @@ Para poder utilizar **TaskFlow**, es necesario disponer de los siguientes elemen
 ```bash
 git clone https://github.com/usuario/taskflow.git
 ```
+
 2. Acceder al directorio del proyecto:
 
 ```bash
 cd taskflow
 ```
+
 3. Abrir el proyecto en el editor de código:
 
 ```bash
