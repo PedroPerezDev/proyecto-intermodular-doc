@@ -22,22 +22,22 @@ Para poder utilizar **TaskFlow**, es necesario disponer de los siguientes elemen
 ---
 
 ## Pasos de instalación
-1. Clonar el repositorio desde Github:
+1.Clonar el repositorio desde Github:
 
 ```bash
 git clone https://github.com/usuario.taskflow.git
 ````
 
-2. Acceder al directorio del proyecto:
+2.Acceder al directorio del proyecto:
 
 ````bash
 cd taskflow
 `````
 
-3. Abrir el proyecto en el editor de código:
+3.Abrir el proyecto en el editor de código:
    
  ````bash
  code .
  ````
 
-4. Abrir el archivo index.html en el navegador para ejecutar.
+4.Abrir el archivo index.html en el navegador para ejecutar.
