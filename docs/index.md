@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Documentación del Proyecto Intermodular
+nav_order: 1
+---
 # TaskFlow 
 
 ![Logo de TaskFlow](img/logos1.jpg)
