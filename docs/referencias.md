@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documentación del Proyecto Intermodular
+title: Referencias
 nav_order: 7
 ---
 # Referencias
