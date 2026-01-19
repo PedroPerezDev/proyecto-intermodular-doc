@@ -1,3 +1,8 @@
+---
+layout: default
+title: Documentación del Proyecto Intermodular
+nav_order: 3
+---
 # Instalación
 
 ![Proceso de instalación](img/logos3.jpg)
